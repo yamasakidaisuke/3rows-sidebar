@@ -1,5 +1,5 @@
 # 3rows-sidebar
-## デモ[https://yamasakidaisuke.github.io/3rows-sidebar/.]
+## [デモ](https://yamasakidaisuke.github.io/3rows-sidebar/)
 * ３列+サイドバーレイアウト
 * Flexboxのflex-basisで作成
 ## 参考サイト
